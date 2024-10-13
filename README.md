@@ -40,10 +40,5 @@ git clone: `https://github.com/yourusername/ulam-spiral-visualization.git`
 - Main.java: The entry point of the application. Sets up the window (frame) and adds the custom canvas (MyCanvas).
 - MyCanvas.java: Extends the Canvas class to implement the custom drawing logic for plotting numbers and connecting lines in the spiral.
   
-
-Pause/Resume Animation: Add controls to interact with the animation.
-Troubleshooting
-Window Not Closing: Ensure the window listener is set up correctly in the Main.java to handle the closing event.
-Flickering Issues: Consider using double-buffering techniques to reduce flickering.
-Contributing
-Contributions are welcome! If you have ideas for improvements or new features, feel free to open an issue or create a pull request.
+# Contributing
+- Contributions are welcome! If you have ideas for improvements or new features, feel free to open an issue or create a pull request.
