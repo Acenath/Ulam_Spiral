@@ -1,2 +1,1 @@
-
 # Ulam_Spiral
